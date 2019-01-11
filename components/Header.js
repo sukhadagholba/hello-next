@@ -5,7 +5,7 @@ const linkStyle = {
 }
 
 
-const Header () => (
+const Header = () => (
  <div>
 	<Link href="/">
 		<a style={linkStyle}>Home</a>
