@@ -6,7 +6,7 @@ import Link from 'next/link'
 const Index = () => (
   <div>
 	<Link href="/about">
-		<a style={{ fontSize: 20 }} >About Page</a>	
+		<button style={{ fontSize: 14 }}>About Page</button>	
 	</Link>
 	
     	<p>Hello Next.js</p>
